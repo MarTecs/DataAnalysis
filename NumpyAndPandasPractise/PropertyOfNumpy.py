@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description:
+# description: 讲解Numpy的属性
 
 
 import numpy as np
