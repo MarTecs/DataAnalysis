@@ -11,4 +11,3 @@ Some instructions about how to use Numpy and Pandas
 
 ### 使用Numpy进行矩阵运算
 
-## Pandas
